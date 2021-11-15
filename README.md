@@ -1,3 +1,3 @@
 # Educational-projects
-Educational projects Data Science
+Educational projects Data Science.
 Below you can find projects that I completed
